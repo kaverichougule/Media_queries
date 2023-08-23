@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3, h4, h5, h6, p, span, button {
+    font-size: 'Roboto', sans-serif;
+}
+section {
+    height: 15vh;
+}
+main {
+    background-color: #e9c744;
+    min-height: 80vh;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 10rem;
+}
+main > .text-container{
+    width: 50%;
+    text-align: center;
+}
+.text-container > h1{
+    font-size: xxx-large;
+}
+.text-container > h6 {
+    font-size: small;
+    line-height: 1.3rem;
+}
+img {
+    width: 50%;
+    transform: translate(-10vh);
+}
+.underline {
+    text-decoration: underline;
+}
