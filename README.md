@@ -3,12 +3,12 @@ Hosted Link: https://kaverichougule.github.io/Media_queries/
 
 index.html <br>
 A 'section' element (empty) which seems to be a placeholder for content. <br>
-A <main> element containing the main content of the page. <br>
-An <img> element with a src attribute linking to an image named "coffee.jpg" and an alt attribute describing the image. <br>
-A <div> with the class "text" containing: <br>
-An <h1> heading for the title "Certified Coffee Courses". <br>
-Two <h6> subheadings containing sample text and a mention of the source of the image. <br>
-A <button> element with the text "Learn more". <br>
+A 'main' element containing the main content of the page. <br>
+An 'img' element with a src attribute linking to an image named "coffee.jpg" and an alt attribute describing the image. <br>
+A 'div' with the class "text" containing: <br>
+An 'h1' heading for the title "Certified Coffee Courses". <br>
+Two 'h6' subheadings containing sample text and a mention of the source of the image. <br>
+A 'button' element with the text "Learn more". <br>
 
 style.css <br>
 It imports the "Roboto" font from Google Fonts. <br>
